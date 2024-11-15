@@ -1,0 +1,50 @@
+com.cometchat.javasampleapp-fragment-1.3.6-0 C:\Users\PC\.gradle\caches\8.9\transforms\022132af6bac98e8948adfeadca2b88c\transformed\fragment-1.3.6\res
+com.cometchat.javasampleapp-jetified-viewpager2-1.1.0-beta02-1 C:\Users\PC\.gradle\caches\8.9\transforms\08221c1b28e5a105318eb0a951395b9d\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.cometchat.javasampleapp-jetified-react-native-webrtc-1.106.1-cometchat-12543298-2 C:\Users\PC\.gradle\caches\8.9\transforms\08fdb981f2f9d2f6173e08733597d41b\transformed\jetified-react-native-webrtc-1.106.1-cometchat-12543298\res
+com.cometchat.javasampleapp-jetified-emoji2-1.2.0-3 C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\res
+com.cometchat.javasampleapp-jetified-window-1.0.0-4 C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\res
+com.cometchat.javasampleapp-drawerlayout-1.1.1-5 C:\Users\PC\.gradle\caches\8.9\transforms\0f502e0b8b835dbb1b6f26efd1a62317\transformed\drawerlayout-1.1.1\res
+com.cometchat.javasampleapp-jetified-autofill-1.1.0-6 C:\Users\PC\.gradle\caches\8.9\transforms\11e9cad07790fc84b00703b1b6b533d0\transformed\jetified-autofill-1.1.0\res
+com.cometchat.javasampleapp-preference-1.2.0-7 C:\Users\PC\.gradle\caches\8.9\transforms\1e2f1937c27b087089f714d05e2aefe2\transformed\preference-1.2.0\res
+com.cometchat.javasampleapp-jetified-activity-ktx-1.6.0-8 C:\Users\PC\.gradle\caches\8.9\transforms\1efee1d9f9b3bafe5107b7936c7a228d\transformed\jetified-activity-ktx-1.6.0\res
+com.cometchat.javasampleapp-media-1.0.0-9 C:\Users\PC\.gradle\caches\8.9\transforms\2489e820bce207fbf49b48342b869d07\transformed\media-1.0.0\res
+com.cometchat.javasampleapp-recyclerview-1.3.2-10 C:\Users\PC\.gradle\caches\8.9\transforms\26931989526352acec5af2982a9bff58\transformed\recyclerview-1.3.2\res
+com.cometchat.javasampleapp-jetified-drawee-2.5.0-11 C:\Users\PC\.gradle\caches\8.9\transforms\2927a51aadbec081ad2da059ca84d72b\transformed\jetified-drawee-2.5.0\res
+com.cometchat.javasampleapp-jetified-core-ktx-1.9.0-12 C:\Users\PC\.gradle\caches\8.9\transforms\2cdac65b0b77d9940fbb90ec6e9c1374\transformed\jetified-core-ktx-1.9.0\res
+com.cometchat.javasampleapp-jetified-annotation-experimental-1.3.0-13 C:\Users\PC\.gradle\caches\8.9\transforms\2f5459edfb62a342077a4085fbe97467\transformed\jetified-annotation-experimental-1.3.0\res
+com.cometchat.javasampleapp-core-1.9.0-14 C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\res
+com.cometchat.javasampleapp-coordinatorlayout-1.1.0-15 C:\Users\PC\.gradle\caches\8.9\transforms\43a21389397008df984784051cd39a6b\transformed\coordinatorlayout-1.1.0\res
+com.cometchat.javasampleapp-jetified-calls-sdk-android-4.0.2-16 C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\res
+com.cometchat.javasampleapp-lifecycle-livedata-core-2.5.1-17 C:\Users\PC\.gradle\caches\8.9\transforms\4976d5ac0f5021e59fc884881d2a179a\transformed\lifecycle-livedata-core-2.5.1\res
+com.cometchat.javasampleapp-cardview-1.0.0-18 C:\Users\PC\.gradle\caches\8.9\transforms\49ecf135d4e3d803ddc6d648e8e2d454\transformed\cardview-1.0.0\res
+com.cometchat.javasampleapp-databinding-adapters-7.0.4-19 C:\Users\PC\.gradle\caches\8.9\transforms\51bc48ab1332d8a1d72d9a82fdce44df\transformed\databinding-adapters-7.0.4\res
+com.cometchat.javasampleapp-jetified-startup-runtime-1.1.1-20 C:\Users\PC\.gradle\caches\8.9\transforms\5914cd0d1f7ce5b2d77c09c643cca61b\transformed\jetified-startup-runtime-1.1.1\res
+com.cometchat.javasampleapp-jetified-chat-uikit-android-4.3.16-21 C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\res
+com.cometchat.javasampleapp-appcompat-1.6.1-22 C:\Users\PC\.gradle\caches\8.9\transforms\5fb357593bf2e41df09357350faade82\transformed\appcompat-1.6.1\res
+com.cometchat.javasampleapp-jetified-savedstate-1.2.0-23 C:\Users\PC\.gradle\caches\8.9\transforms\5ffbca9cfd76cc42ddf94f41a51e45fe\transformed\jetified-savedstate-1.2.0\res
+com.cometchat.javasampleapp-lifecycle-runtime-2.5.1-24 C:\Users\PC\.gradle\caches\8.9\transforms\6c8c16cb52b4f6efac2a0fb547904a3a\transformed\lifecycle-runtime-2.5.1\res
+com.cometchat.javasampleapp-material-1.8.0-25 C:\Users\PC\.gradle\caches\8.9\transforms\6e3e84bbc2fb1529b5097655b547fcfa\transformed\material-1.8.0\res
+com.cometchat.javasampleapp-jetified-glide-4.9.0-26 C:\Users\PC\.gradle\caches\8.9\transforms\7e62a91e0487f94c9e14eaa006c39b89\transformed\jetified-glide-4.9.0\res
+com.cometchat.javasampleapp-jetified-savedstate-ktx-1.2.0-27 C:\Users\PC\.gradle\caches\8.9\transforms\8f5a1601f7a22d074432477ce76f8a06\transformed\jetified-savedstate-ktx-1.2.0\res
+com.cometchat.javasampleapp-slidingpanelayout-1.2.0-28 C:\Users\PC\.gradle\caches\8.9\transforms\907b03ea3c0476fa30d106f9f713427d\transformed\slidingpanelayout-1.2.0\res
+com.cometchat.javasampleapp-databinding-runtime-7.0.4-29 C:\Users\PC\.gradle\caches\8.9\transforms\921d726a67950578b531d7922ea90b68\transformed\databinding-runtime-7.0.4\res
+com.cometchat.javasampleapp-jetified-react-native-cometchat-0.66.4-30 C:\Users\PC\.gradle\caches\8.9\transforms\964262fac30b329c64700d5b08ab4ce5\transformed\jetified-react-native-cometchat-0.66.4\res
+com.cometchat.javasampleapp-jetified-flexbox-3.0.0-31 C:\Users\PC\.gradle\caches\8.9\transforms\97877d67945718813815c729979f1534\transformed\jetified-flexbox-3.0.0\res
+com.cometchat.javasampleapp-jetified-lifecycle-viewmodel-savedstate-2.5.1-32 C:\Users\PC\.gradle\caches\8.9\transforms\a49daabea48de59998a2c7f737231dd0\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.cometchat.javasampleapp-constraintlayout-2.1.4-33 C:\Users\PC\.gradle\caches\8.9\transforms\aa6aef0b366c6464950ea2f6ac03ac66\transformed\constraintlayout-2.1.4\res
+com.cometchat.javasampleapp-jetified-lifecycle-viewmodel-ktx-2.5.1-34 C:\Users\PC\.gradle\caches\8.9\transforms\ab37ca6b7c975d1500b9994f7123ea46\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\res
+com.cometchat.javasampleapp-jetified-emoji2-views-helper-1.2.0-35 C:\Users\PC\.gradle\caches\8.9\transforms\b59caebd5b0eeb398bb0b51203a06c00\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.cometchat.javasampleapp-transition-1.4.1-36 C:\Users\PC\.gradle\caches\8.9\transforms\c704e9b7a7d1a61d3b28813818475a46\transformed\transition-1.4.1\res
+com.cometchat.javasampleapp-jetified-lifecycle-process-2.4.1-37 C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\res
+com.cometchat.javasampleapp-jetified-appcompat-resources-1.6.1-38 C:\Users\PC\.gradle\caches\8.9\transforms\d2b4e023067e1255755d74798b3b5ddb\transformed\jetified-appcompat-resources-1.6.1\res
+com.cometchat.javasampleapp-jetified-lifecycle-runtime-ktx-2.5.1-39 C:\Users\PC\.gradle\caches\8.9\transforms\d539df377a4017edf476653e353d9bd6\transformed\jetified-lifecycle-runtime-ktx-2.5.1\res
+com.cometchat.javasampleapp-jetified-customview-poolingcontainer-1.0.0-40 C:\Users\PC\.gradle\caches\8.9\transforms\d8596e7365d35ee8fdf3229e541f9472\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.cometchat.javasampleapp-jetified-activity-1.6.0-41 C:\Users\PC\.gradle\caches\8.9\transforms\ef2b527f9f787bed1762ac3e6aa1b6df\transformed\jetified-activity-1.6.0\res
+com.cometchat.javasampleapp-lifecycle-viewmodel-2.5.1-42 C:\Users\PC\.gradle\caches\8.9\transforms\f7c5e4989bd5b19db808ae9ab064d383\transformed\lifecycle-viewmodel-2.5.1\res
+com.cometchat.javasampleapp-pngs-43 C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\build\generated\res\pngs\debug
+com.cometchat.javasampleapp-resValues-44 C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\build\generated\res\resValues\debug
+com.cometchat.javasampleapp-packageDebugResources-45 C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cometchat.javasampleapp-packageDebugResources-46 C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cometchat.javasampleapp-debug-47 C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.cometchat.javasampleapp-debug-48 C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\debug\res
+com.cometchat.javasampleapp-main-49 C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\res

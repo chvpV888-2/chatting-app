@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app"
+    name=":app"
+    type="APP"
+    maven="JavaSampleApp:app:unspecified"
+    agpVersion="8.7.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\PC\AppData\Local\Android\Sdk\platforms\android-33\android.jar;C:\Users\PC\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

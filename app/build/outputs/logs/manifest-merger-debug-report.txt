@@ -1,0 +1,710 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:2:1-107:12
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:2:1-39:12
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\PC\.gradle\caches\8.9\transforms\6e3e84bbc2fb1529b5097655b547fcfa\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\PC\.gradle\caches\8.9\transforms\aa6aef0b366c6464950ea2f6ac03ac66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\1e2f1937c27b087089f714d05e2aefe2\transformed\preference-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\PC\.gradle\caches\8.9\transforms\d2b4e023067e1255755d74798b3b5ddb\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\ea84c4a146b03a2ec032b7f5daa764e3\transformed\jetified-react-native-background-timer-2.4.1-cometchat-10288035\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-webrtc:1.106.1-cometchat-12543298] C:\Users\PC\.gradle\caches\8.9\transforms\08fdb981f2f9d2f6173e08733597d41b\transformed\jetified-react-native-webrtc-1.106.1-cometchat-12543298\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native-community_netinfo:7.1.7-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\1e42fc9de75f721b92fa8213d32a30f0\transformed\jetified-react-native-community_netinfo-7.1.7-cometchat-10288035\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native-async-storage:1.15.14-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\a7027fb80dde52caa958d2b069ccf745\transformed\jetified-react-native-async-storage-1.15.14-cometchat-10288035\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native-cometchat:0.66.4] C:\Users\PC\.gradle\caches\8.9\transforms\964262fac30b329c64700d5b08ab4ce5\transformed\jetified-react-native-cometchat-0.66.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\PC\.gradle\caches\8.9\transforms\5fb357593bf2e41df09357350faade82\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\51bc48ab1332d8a1d72d9a82fdce44df\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\921d726a67950578b531d7922ea90b68\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a1eb09d49060c237ae644422d13bfa1\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\PC\.gradle\caches\8.9\transforms\08221c1b28e5a105318eb0a951395b9d\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\PC\.gradle\caches\8.9\transforms\26931989526352acec5af2982a9bff58\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\7e62a91e0487f94c9e14eaa006c39b89\transformed\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\PC\.gradle\caches\8.9\transforms\29b274fa60a4bdf63fc58b4580c7d829\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.cometchat:chat-sdk-android:4.0.10] C:\Users\PC\.gradle\caches\8.9\transforms\88f4113ab09f97164178a847197f776d\transformed\jetified-chat-sdk-android-4.0.10\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\5b32b8abc2af2a1b190c731972a90a16\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PC\.gradle\caches\8.9\transforms\022132af6bac98e8948adfeadca2b88c\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\PC\.gradle\caches\8.9\transforms\1efee1d9f9b3bafe5107b7936c7a228d\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\PC\.gradle\caches\8.9\transforms\ef2b527f9f787bed1762ac3e6aa1b6df\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\b59caebd5b0eeb398bb0b51203a06c00\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\1571d80300a09de9dfc3ca250cdaedfa\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\0f502e0b8b835dbb1b6f26efd1a62317\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\43a21389397008df984784051cd39a6b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\a98ab41f04f2b70b9136868ddc3c6988\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\30fba741f8e98cb753260dbf350d5148\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\ba0144e1eaeacaff4f5b3a717a34c7be\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\907b03ea3c0476fa30d106f9f713427d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\2489e820bce207fbf49b48342b869d07\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\97fac01138fa0ca98836a6c0952c726f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\d8596e7365d35ee8fdf3229e541f9472\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\d484ffba6ed6b8298693d91d630519be\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\ab37ca6b7c975d1500b9994f7123ea46\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\f7c5e4989bd5b19db808ae9ab064d383\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\a49daabea48de59998a2c7f737231dd0\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\2cdac65b0b77d9940fbb90ec6e9c1374\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\10ee40a6142a5042899ff73fe04c5d8b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\683e6a8bc3e17246566ffef111d7b2ff\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\11e9cad07790fc84b00703b1b6b533d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\c61720928f2233ac674f2e5825ed20db\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\c704e9b7a7d1a61d3b28813818475a46\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\14bd9c4b5ff931e4a6a660b33ee19151\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\b2f415a8e3d9fc654f2084f27bfdaf48\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\7b10614322a58629202dd150aede591e\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\d539df377a4017edf476653e353d9bd6\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\6c8c16cb52b4f6efac2a0fb547904a3a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\8f5a1601f7a22d074432477ce76f8a06\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\5ffbca9cfd76cc42ddf94f41a51e45fe\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\49ecf135d4e3d803ddc6d648e8e2d454\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\e6d8e65d39618142b5a2a7379e58d2d6\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\dd13a5b735c9e41e994f75af40d9e0b6\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\5914cd0d1f7ce5b2d77c09c643cca61b\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\f61726133436fb716beadfcb15fd5237\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\37cbb73f3bb006c5cbb9064d51f4a190\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\c4387f481742c17f225e9610c66ab6e8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\PC\.gradle\caches\8.9\transforms\1dfab85bcec8360d9532c01926f5d23b\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\4976d5ac0f5021e59fc884881d2a179a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\15d6d13bf94998e7bfd3fc37cc5799c4\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\bc8f8dc3241e5b4ff25b79e96c1014cf\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\2093dc12b474d9b688c7d4994cd0f98a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\7758a461aa5bb4bfd2794f3c068d3de2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\575019187b8792bebba099b4b4f9269a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\97877d67945718813815c729979f1534\transformed\jetified-flexbox-3.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\2f5459edfb62a342077a4085fbe97467\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\8ad4f848f4d335d74260c0a14321a750\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\PC\.gradle\caches\8.9\transforms\7afda7f73c0291e0891de96e849123a3\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\a130bfcfad33b1a761d09e0c7888d612\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\2927a51aadbec081ad2da059ca84d72b\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\66dbb52eab4fd5c5bed324c82d2fee56\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\5dedcd8bd0197604d31e47f18ac18537\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\fcaf646cd970784af7b912da8774e483\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\00d8eff4d767f22ff08062cd08a0f43e\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\6cb3226b5ef7b154dfe816c0e68e6a51\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\de7597b8141795cb801535ef2f27ea86\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\78f025eec301323b9587dea399eba173\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\5c016bf34483ada23c2ed5bbc74508a6\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\72c9a8400e710bcbc4708454e85abd6b\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\fd39cfe8583a85ef587794ef8e598509\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\495ba4bae9f6b542bd92ebf67bdcc3ca\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\PC\.gradle\caches\8.9\transforms\6f9e1a9f1769a6b5c87747f7efbc39f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\346c951b6f50f494d85fdbc7bf2d9d1f\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:11:5-67
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:11:5-67
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:16:5-67
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:16:5-67
+MERGED from [com.cometchat:chat-sdk-android:4.0.10] C:\Users\PC\.gradle\caches\8.9\transforms\88f4113ab09f97164178a847197f776d\transformed\jetified-chat-sdk-android-4.0.10\AndroidManifest.xml:11:5-67
+MERGED from [com.cometchat:chat-sdk-android:4.0.10] C:\Users\PC\.gradle\caches\8.9\transforms\88f4113ab09f97164178a847197f776d\transformed\jetified-chat-sdk-android-4.0.10\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:18:5-20:38
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:18:5-20:38
+	android:maxSdkVersion
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:20:9-35
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:7:5-82
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:7:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:8:5-68
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:21:5-68
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:21:5-68
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\ea84c4a146b03a2ec032b7f5daa764e3\transformed\jetified-react-native-background-timer-2.4.1-cometchat-10288035\AndroidManifest.xml:9:5-68
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\ea84c4a146b03a2ec032b7f5daa764e3\transformed\jetified-react-native-background-timer-2.4.1-cometchat-10288035\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:8:22-65
+application
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:10:5-56:19
+INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:10:5-56:19
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:39:5-105:19
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:39:5-105:19
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:29:5-37:19
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\PC\.gradle\caches\8.9\transforms\6e3e84bbc2fb1529b5097655b547fcfa\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\PC\.gradle\caches\8.9\transforms\6e3e84bbc2fb1529b5097655b547fcfa\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\PC\.gradle\caches\8.9\transforms\aa6aef0b366c6464950ea2f6ac03ac66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\PC\.gradle\caches\8.9\transforms\aa6aef0b366c6464950ea2f6ac03ac66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native-cometchat:0.66.4] C:\Users\PC\.gradle\caches\8.9\transforms\964262fac30b329c64700d5b08ab4ce5\transformed\jetified-react-native-cometchat-0.66.4\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native-cometchat:0.66.4] C:\Users\PC\.gradle\caches\8.9\transforms\964262fac30b329c64700d5b08ab4ce5\transformed\jetified-react-native-cometchat-0.66.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\7e62a91e0487f94c9e14eaa006c39b89\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\7e62a91e0487f94c9e14eaa006c39b89\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\5b32b8abc2af2a1b190c731972a90a16\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\5b32b8abc2af2a1b190c731972a90a16\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\dd13a5b735c9e41e994f75af40d9e0b6\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\dd13a5b735c9e41e994f75af40d9e0b6\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\5914cd0d1f7ce5b2d77c09c643cca61b\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\5914cd0d1f7ce5b2d77c09c643cca61b\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\37cbb73f3bb006c5cbb9064d51f4a190\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\37cbb73f3bb006c5cbb9064d51f4a190\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\PC\.gradle\caches\8.9\transforms\6f9e1a9f1769a6b5c87747f7efbc39f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\PC\.gradle\caches\8.9\transforms\6f9e1a9f1769a6b5c87747f7efbc39f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:17:9-52
+	android:exported
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:30:9-32
+	tools:ignore
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:33:9-39
+	android:roundIcon
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:15:9-43
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:16:9-41
+	android:hardwareAccelerated
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:40:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:21:9-29
+	android:allowBackup
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:20:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:13:9-65
+	android:usesCleartextTraffic
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:11:9-63
+activity#com.cometchat.javasampleapp.activity.CreateUserActivity
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:22:9-25:52
+	android:screenOrientation
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:25:13-49
+	android:exported
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:23:13-56
+activity#com.cometchat.javasampleapp.activity.ComponentLaunchActivity
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:26:9-29:52
+	android:screenOrientation
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:29:13-49
+	android:exported
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:27:13-61
+activity#com.cometchat.javasampleapp.activity.ComponentListActivity
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:30:9-33:52
+	android:screenOrientation
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:33:13-49
+	android:exported
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:31:13-59
+activity#com.cometchat.javasampleapp.activity.LoginActivity
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:34:9-37:52
+	android:screenOrientation
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:37:13-49
+	android:exported
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:35:13-51
+activity#com.cometchat.javasampleapp.activity.HomeActivity
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:38:9-41:52
+	android:screenOrientation
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:41:13-49
+	android:exported
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:39:13-50
+activity#com.cometchat.javasampleapp.activity.MainActivity
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:42:9-51:20
+	android:screenOrientation
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:45:13-49
+	android:exported
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:43:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:49:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:53:9-55:57
+	android:resource
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:55:13-54
+	android:name
+		ADDED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml:54:13-43
+uses-sdk
+INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:6:5-8:41
+MERGED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:6:5-8:41
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:6:5-9:146
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:6:5-9:146
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\PC\.gradle\caches\8.9\transforms\6e3e84bbc2fb1529b5097655b547fcfa\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\PC\.gradle\caches\8.9\transforms\6e3e84bbc2fb1529b5097655b547fcfa\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\PC\.gradle\caches\8.9\transforms\aa6aef0b366c6464950ea2f6ac03ac66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\PC\.gradle\caches\8.9\transforms\aa6aef0b366c6464950ea2f6ac03ac66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\1e2f1937c27b087089f714d05e2aefe2\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\1e2f1937c27b087089f714d05e2aefe2\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\PC\.gradle\caches\8.9\transforms\d2b4e023067e1255755d74798b3b5ddb\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\PC\.gradle\caches\8.9\transforms\d2b4e023067e1255755d74798b3b5ddb\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\ea84c4a146b03a2ec032b7f5daa764e3\transformed\jetified-react-native-background-timer-2.4.1-cometchat-10288035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\ea84c4a146b03a2ec032b7f5daa764e3\transformed\jetified-react-native-background-timer-2.4.1-cometchat-10288035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-webrtc:1.106.1-cometchat-12543298] C:\Users\PC\.gradle\caches\8.9\transforms\08fdb981f2f9d2f6173e08733597d41b\transformed\jetified-react-native-webrtc-1.106.1-cometchat-12543298\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-webrtc:1.106.1-cometchat-12543298] C:\Users\PC\.gradle\caches\8.9\transforms\08fdb981f2f9d2f6173e08733597d41b\transformed\jetified-react-native-webrtc-1.106.1-cometchat-12543298\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-community_netinfo:7.1.7-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\1e42fc9de75f721b92fa8213d32a30f0\transformed\jetified-react-native-community_netinfo-7.1.7-cometchat-10288035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-community_netinfo:7.1.7-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\1e42fc9de75f721b92fa8213d32a30f0\transformed\jetified-react-native-community_netinfo-7.1.7-cometchat-10288035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-async-storage:1.15.14-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\a7027fb80dde52caa958d2b069ccf745\transformed\jetified-react-native-async-storage-1.15.14-cometchat-10288035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-async-storage:1.15.14-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\a7027fb80dde52caa958d2b069ccf745\transformed\jetified-react-native-async-storage-1.15.14-cometchat-10288035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-cometchat:0.66.4] C:\Users\PC\.gradle\caches\8.9\transforms\964262fac30b329c64700d5b08ab4ce5\transformed\jetified-react-native-cometchat-0.66.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-cometchat:0.66.4] C:\Users\PC\.gradle\caches\8.9\transforms\964262fac30b329c64700d5b08ab4ce5\transformed\jetified-react-native-cometchat-0.66.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\PC\.gradle\caches\8.9\transforms\5fb357593bf2e41df09357350faade82\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\PC\.gradle\caches\8.9\transforms\5fb357593bf2e41df09357350faade82\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\51bc48ab1332d8a1d72d9a82fdce44df\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\51bc48ab1332d8a1d72d9a82fdce44df\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\921d726a67950578b531d7922ea90b68\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\921d726a67950578b531d7922ea90b68\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a1eb09d49060c237ae644422d13bfa1\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\9a1eb09d49060c237ae644422d13bfa1\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\PC\.gradle\caches\8.9\transforms\08221c1b28e5a105318eb0a951395b9d\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\PC\.gradle\caches\8.9\transforms\08221c1b28e5a105318eb0a951395b9d\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\PC\.gradle\caches\8.9\transforms\26931989526352acec5af2982a9bff58\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\PC\.gradle\caches\8.9\transforms\26931989526352acec5af2982a9bff58\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\7e62a91e0487f94c9e14eaa006c39b89\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\7e62a91e0487f94c9e14eaa006c39b89\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\PC\.gradle\caches\8.9\transforms\29b274fa60a4bdf63fc58b4580c7d829\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\PC\.gradle\caches\8.9\transforms\29b274fa60a4bdf63fc58b4580c7d829\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.cometchat:chat-sdk-android:4.0.10] C:\Users\PC\.gradle\caches\8.9\transforms\88f4113ab09f97164178a847197f776d\transformed\jetified-chat-sdk-android-4.0.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cometchat:chat-sdk-android:4.0.10] C:\Users\PC\.gradle\caches\8.9\transforms\88f4113ab09f97164178a847197f776d\transformed\jetified-chat-sdk-android-4.0.10\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\5b32b8abc2af2a1b190c731972a90a16\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\5b32b8abc2af2a1b190c731972a90a16\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PC\.gradle\caches\8.9\transforms\022132af6bac98e8948adfeadca2b88c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PC\.gradle\caches\8.9\transforms\022132af6bac98e8948adfeadca2b88c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\PC\.gradle\caches\8.9\transforms\1efee1d9f9b3bafe5107b7936c7a228d\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\PC\.gradle\caches\8.9\transforms\1efee1d9f9b3bafe5107b7936c7a228d\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\PC\.gradle\caches\8.9\transforms\ef2b527f9f787bed1762ac3e6aa1b6df\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\PC\.gradle\caches\8.9\transforms\ef2b527f9f787bed1762ac3e6aa1b6df\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\b59caebd5b0eeb398bb0b51203a06c00\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\b59caebd5b0eeb398bb0b51203a06c00\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\1571d80300a09de9dfc3ca250cdaedfa\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\1571d80300a09de9dfc3ca250cdaedfa\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\0f502e0b8b835dbb1b6f26efd1a62317\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\0f502e0b8b835dbb1b6f26efd1a62317\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\43a21389397008df984784051cd39a6b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\43a21389397008df984784051cd39a6b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\a98ab41f04f2b70b9136868ddc3c6988\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\a98ab41f04f2b70b9136868ddc3c6988\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\30fba741f8e98cb753260dbf350d5148\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\30fba741f8e98cb753260dbf350d5148\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\ba0144e1eaeacaff4f5b3a717a34c7be\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\ba0144e1eaeacaff4f5b3a717a34c7be\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\907b03ea3c0476fa30d106f9f713427d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\907b03ea3c0476fa30d106f9f713427d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\2489e820bce207fbf49b48342b869d07\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\2489e820bce207fbf49b48342b869d07\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\97fac01138fa0ca98836a6c0952c726f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\97fac01138fa0ca98836a6c0952c726f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\d8596e7365d35ee8fdf3229e541f9472\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\d8596e7365d35ee8fdf3229e541f9472\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\d484ffba6ed6b8298693d91d630519be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\d484ffba6ed6b8298693d91d630519be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\ab37ca6b7c975d1500b9994f7123ea46\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\ab37ca6b7c975d1500b9994f7123ea46\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\f7c5e4989bd5b19db808ae9ab064d383\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\f7c5e4989bd5b19db808ae9ab064d383\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\a49daabea48de59998a2c7f737231dd0\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\a49daabea48de59998a2c7f737231dd0\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\2cdac65b0b77d9940fbb90ec6e9c1374\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\2cdac65b0b77d9940fbb90ec6e9c1374\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\10ee40a6142a5042899ff73fe04c5d8b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\10ee40a6142a5042899ff73fe04c5d8b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\683e6a8bc3e17246566ffef111d7b2ff\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\683e6a8bc3e17246566ffef111d7b2ff\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\11e9cad07790fc84b00703b1b6b533d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\11e9cad07790fc84b00703b1b6b533d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\c61720928f2233ac674f2e5825ed20db\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\c61720928f2233ac674f2e5825ed20db\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\c704e9b7a7d1a61d3b28813818475a46\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\c704e9b7a7d1a61d3b28813818475a46\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\14bd9c4b5ff931e4a6a660b33ee19151\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\14bd9c4b5ff931e4a6a660b33ee19151\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\b2f415a8e3d9fc654f2084f27bfdaf48\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\b2f415a8e3d9fc654f2084f27bfdaf48\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\7b10614322a58629202dd150aede591e\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\7b10614322a58629202dd150aede591e\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\d539df377a4017edf476653e353d9bd6\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\d539df377a4017edf476653e353d9bd6\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\6c8c16cb52b4f6efac2a0fb547904a3a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\6c8c16cb52b4f6efac2a0fb547904a3a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\8f5a1601f7a22d074432477ce76f8a06\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\8f5a1601f7a22d074432477ce76f8a06\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\5ffbca9cfd76cc42ddf94f41a51e45fe\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\5ffbca9cfd76cc42ddf94f41a51e45fe\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\49ecf135d4e3d803ddc6d648e8e2d454\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\49ecf135d4e3d803ddc6d648e8e2d454\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\e6d8e65d39618142b5a2a7379e58d2d6\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\PC\.gradle\caches\8.9\transforms\e6d8e65d39618142b5a2a7379e58d2d6\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\dd13a5b735c9e41e994f75af40d9e0b6\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\dd13a5b735c9e41e994f75af40d9e0b6\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\5914cd0d1f7ce5b2d77c09c643cca61b\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\5914cd0d1f7ce5b2d77c09c643cca61b\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\f61726133436fb716beadfcb15fd5237\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\f61726133436fb716beadfcb15fd5237\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\37cbb73f3bb006c5cbb9064d51f4a190\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\37cbb73f3bb006c5cbb9064d51f4a190\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\c4387f481742c17f225e9610c66ab6e8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\c4387f481742c17f225e9610c66ab6e8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\PC\.gradle\caches\8.9\transforms\1dfab85bcec8360d9532c01926f5d23b\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\PC\.gradle\caches\8.9\transforms\1dfab85bcec8360d9532c01926f5d23b\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\4976d5ac0f5021e59fc884881d2a179a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\PC\.gradle\caches\8.9\transforms\4976d5ac0f5021e59fc884881d2a179a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\15d6d13bf94998e7bfd3fc37cc5799c4\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PC\.gradle\caches\8.9\transforms\15d6d13bf94998e7bfd3fc37cc5799c4\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\bc8f8dc3241e5b4ff25b79e96c1014cf\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\bc8f8dc3241e5b4ff25b79e96c1014cf\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\2093dc12b474d9b688c7d4994cd0f98a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\2093dc12b474d9b688c7d4994cd0f98a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\7758a461aa5bb4bfd2794f3c068d3de2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\7758a461aa5bb4bfd2794f3c068d3de2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\575019187b8792bebba099b4b4f9269a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\575019187b8792bebba099b4b4f9269a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\97877d67945718813815c729979f1534\transformed\jetified-flexbox-3.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\97877d67945718813815c729979f1534\transformed\jetified-flexbox-3.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\2f5459edfb62a342077a4085fbe97467\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\PC\.gradle\caches\8.9\transforms\2f5459edfb62a342077a4085fbe97467\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\8ad4f848f4d335d74260c0a14321a750\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\8ad4f848f4d335d74260c0a14321a750\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\PC\.gradle\caches\8.9\transforms\7afda7f73c0291e0891de96e849123a3\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\PC\.gradle\caches\8.9\transforms\7afda7f73c0291e0891de96e849123a3\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\a130bfcfad33b1a761d09e0c7888d612\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\a130bfcfad33b1a761d09e0c7888d612\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\2927a51aadbec081ad2da059ca84d72b\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\2927a51aadbec081ad2da059ca84d72b\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\66dbb52eab4fd5c5bed324c82d2fee56\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\66dbb52eab4fd5c5bed324c82d2fee56\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\5dedcd8bd0197604d31e47f18ac18537\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\5dedcd8bd0197604d31e47f18ac18537\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\fcaf646cd970784af7b912da8774e483\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\fcaf646cd970784af7b912da8774e483\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\00d8eff4d767f22ff08062cd08a0f43e\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\00d8eff4d767f22ff08062cd08a0f43e\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\6cb3226b5ef7b154dfe816c0e68e6a51\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\6cb3226b5ef7b154dfe816c0e68e6a51\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\de7597b8141795cb801535ef2f27ea86\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\de7597b8141795cb801535ef2f27ea86\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\78f025eec301323b9587dea399eba173\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\78f025eec301323b9587dea399eba173\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\5c016bf34483ada23c2ed5bbc74508a6\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\5c016bf34483ada23c2ed5bbc74508a6\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\72c9a8400e710bcbc4708454e85abd6b\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\72c9a8400e710bcbc4708454e85abd6b\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\fd39cfe8583a85ef587794ef8e598509\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\fd39cfe8583a85ef587794ef8e598509\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\495ba4bae9f6b542bd92ebf67bdcc3ca\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\495ba4bae9f6b542bd92ebf67bdcc3ca\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\PC\.gradle\caches\8.9\transforms\6f9e1a9f1769a6b5c87747f7efbc39f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\PC\.gradle\caches\8.9\transforms\6f9e1a9f1769a6b5c87747f7efbc39f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\346c951b6f50f494d85fdbc7bf2d9d1f\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\PC\.gradle\caches\8.9\transforms\346c951b6f50f494d85fdbc7bf2d9d1f\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:9:9-143
+	android:targetSdkVersion
+		INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PC\OneDrive - Chandigarh University\Desktop\New folder\javachatapp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:10:5-79
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:11:5-79
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:11:5-79
+MERGED from [com.facebook.react:react-native-community_netinfo:7.1.7-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\1e42fc9de75f721b92fa8213d32a30f0\transformed\jetified-react-native-community_netinfo-7.1.7-cometchat-10288035\AndroidManifest.xml:9:5-79
+MERGED from [com.facebook.react:react-native-community_netinfo:7.1.7-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\1e42fc9de75f721b92fa8213d32a30f0\transformed\jetified-react-native-community_netinfo-7.1.7-cometchat-10288035\AndroidManifest.xml:9:5-79
+MERGED from [com.cometchat:chat-sdk-android:4.0.10] C:\Users\PC\.gradle\caches\8.9\transforms\88f4113ab09f97164178a847197f776d\transformed\jetified-chat-sdk-android-4.0.10\AndroidManifest.xml:12:5-79
+MERGED from [com.cometchat:chat-sdk-android:4.0.10] C:\Users\PC\.gradle\caches\8.9\transforms\88f4113ab09f97164178a847197f776d\transformed\jetified-chat-sdk-android-4.0.10\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CAMERA
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:12:5-65
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:15:5-65
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:13:5-71
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:19:5-71
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:14:5-80
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:18:5-80
+MERGED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:15:5-17:38
+	android:maxSdkVersion
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:17:9-35
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:16:9-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:21:22-63
+queries
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:23:5-37:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:image/* video/*
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:24:9-28:18
+action#android.intent.action.GET_CONTENT
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:25:21-69
+data
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:27:13-56
+	android:mimeType
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:27:19-53
+intent#action:name:android.intent.action.PICK+data:mimeType:image/* video/*
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:29:9-33:18
+action#android.intent.action.PICK
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:30:21-62
+intent#action:name:android.intent.action.CHOOSER
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:34:9-36:18
+action#android.intent.action.CHOOSER
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:35:13-68
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:35:21-65
+activity#com.cometchat.chatuikit.shared.permission.CometChatPermissionActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:44:9-46:71
+	android:theme
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:46:13-68
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:45:13-97
+activity#com.cometchat.chatuikit.users.CometChatUserActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:47:9-54:20
+	android:screenOrientation
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:50:13-49
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:48:13-79
+meta-data#android.app.lib_name
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:51:13-53:36
+	android:value
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:53:17-33
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:52:17-52
+activity#com.cometchat.chatuikit.groups.CometChatGroupActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:55:9-62:20
+	android:screenOrientation
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:58:13-49
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:56:13-81
+activity#com.cometchat.chatuikit.calls.calldetails.CallLogDetailsActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:63:9-66:52
+	android:screenOrientation
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:66:13-49
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:65:13-36
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:64:13-92
+activity#com.cometchat.chatuikit.calls.CometChatCallActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:67:9-70:52
+	android:screenOrientation
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:70:13-49
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:68:13-79
+activity#com.cometchat.chatuikit.messages.MessageActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:71:9-78:20
+	android:screenOrientation
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:74:13-49
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:73:13-36
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:72:13-76
+activity#com.cometchat.chatuikit.threadedmessages.ThreadedMessagesActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:79:9-82:52
+	android:screenOrientation
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:82:13-49
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:80:13-93
+activity#com.cometchat.chatuikit.extensions.collaborative.CometChatWebViewActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:83:9-86:52
+	android:screenOrientation
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:86:13-49
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:85:13-37
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:84:13-101
+activity#com.cometchat.chatuikit.shared.views.mediaview.CometChatMediaViewActivity
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:87:9-90:39
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:90:13-36
+	android:configChanges
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:89:13-91
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:88:13-101
+meta-data#com.cometchat.chatuikit
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:92:9-94:48
+	android:value
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:94:13-45
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:93:13-51
+provider#androidx.core.content.FileProvider
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:96:9-104:20
+	android:grantUriPermissions
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:100:13-47
+	android:authorities
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:98:13-60
+	android:exported
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:99:13-37
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:97:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:101:13-103:57
+	android:resource
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:103:17-54
+	android:name
+		ADDED from [com.cometchat:chat-uikit-android:4.3.16] C:\Users\PC\.gradle\caches\8.9\transforms\5cda2477b88b407947f600603061a20b\transformed\jetified-chat-uikit-android-4.3.16\AndroidManifest.xml:102:17-67
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:20:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:22:5-76
+MERGED from [com.facebook.react:react-native-community_netinfo:7.1.7-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\1e42fc9de75f721b92fa8213d32a30f0\transformed\jetified-react-native-community_netinfo-7.1.7-cometchat-10288035\AndroidManifest.xml:10:5-76
+MERGED from [com.facebook.react:react-native-community_netinfo:7.1.7-cometchat-10288035] C:\Users\PC\.gradle\caches\8.9\transforms\1e42fc9de75f721b92fa8213d32a30f0\transformed\jetified-react-native-community_netinfo-7.1.7-cometchat-10288035\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:23:22-74
+uses-feature#0x00020000
+ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:25:5-27:35
+	android:glEsVersion
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:26:9-41
+	android:required
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:27:9-32
+activity#com.cometchat.calls.CallScreenActivity
+ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.cometchat:calls-sdk-android:4.0.2] C:\Users\PC\.gradle\caches\8.9\transforms\4724069cba30b63de6dd5e5ec9e15157\transformed\jetified-calls-sdk-android-4.0.2\AndroidManifest.xml:35:13-66
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\5914cd0d1f7ce5b2d77c09c643cca61b\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PC\.gradle\caches\8.9\transforms\5914cd0d1f7ce5b2d77c09c643cca61b\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\PC\.gradle\caches\8.9\transforms\090ce07e4efa029fdc4271658553bc51\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\PC\.gradle\caches\8.9\transforms\0bd4a4ce0d26f6ccca6aada2112910a6\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.cometchat.javasampleapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.cometchat.javasampleapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\PC\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\PC\.gradle\caches\8.9\transforms\ceedf794ce61fadb0d3bf24ed2857e64\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
